@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @shellnowasklater
 - 👀 I’m interested in full stack
-- 🌱 I’m currently learning python and wireless
-- 💞️ I’m looking to collaborate on tensorflow or pytorch any ai
-- 📫 How to reach me ???? you cant
-- 😄 Pronouns: 
+- 🌱 I’m currently learning wpa3 vulns
+- 💞️ I’m looking to collaborate with wireless security
 - ⚡ Fun fact: I go that fast
 
 <!---
